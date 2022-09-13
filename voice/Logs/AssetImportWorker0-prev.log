@@ -1,0 +1,224 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/mayu/voice
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51891
+Successfully changed project path to: /Users/mayu/voice
+/Users/mayu/voice
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 64.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/mayu/voice/Assets
+GfxDevice: creating device client; threaded=0
+2022-09-07 01:37:07.663 Unity[42472:2629830] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2022-09-07 01:37:07.663 Unity[42472:2629830] Metal devices available: 1
+2022-09-07 01:37:07.663 Unity[42472:2629830] 0: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2022-09-07 01:37:07.664 Unity[42472:2629830] Using device Intel(R) Iris(TM) Plus Graphics 655 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 655
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56472
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.10f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.003345 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 31.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.876 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007963 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.451 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1417 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.7 MB.
+System memory in use after: 134.8 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1852.
+Total: 5.947717 ms (FindLiveObjects: 0.639074 ms CreateObjectMapping: 0.049468 ms MarkObjects: 4.583143 ms  DeleteObjects: 0.674742 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/78D05DDE-8000-4951-9540-6F4052F8ACAE-removebg-preview.png
+  artifactKey: Guid(70d552d5038d248ca87f46c7bbe77600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/78D05DDE-8000-4951-9540-6F4052F8ACAE-removebg-preview.png using Guid(70d552d5038d248ca87f46c7bbe77600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00d4a6bce92762503ad6dba34eeac67d') in 0.981497 seconds
+  Import took 0.985588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Scenes/都会の街中（日中）.jpg
+  artifactKey: Guid(4e804ee4b48cb44269b3aa33f2b6d8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/都会の街中（日中）.jpg using Guid(4e804ee4b48cb44269b3aa33f2b6d8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4659b8cd51b4870efb4eb13899a81e70') in 1.072852 seconds
+  Import took 1.076097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 248.532547 seconds.
+  path: Assets/Scenes/池のある公園（日中）.jpg
+  artifactKey: Guid(ba7c90767eab644a49d8b831122f0564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/池のある公園（日中）.jpg using Guid(ba7c90767eab644a49d8b831122f0564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9766ff7a3da396515101b08742cff95e') in 0.022941 seconds
+  Import took 0.026783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 289.262055 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(b18f42c0a3a8b437ebbc466166518691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(b18f42c0a3a8b437ebbc466166518691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d7b2967713c821335ff83e21180b354') in 0.002998 seconds
+  Import took 0.026284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.580751 seconds.
+  path: Assets/78D05DDE-8000-4951-9540-6F4052F8ACAE-removebg-preview.png
+  artifactKey: Guid(7446759409806442690ab897b602142c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/78D05DDE-8000-4951-9540-6F4052F8ACAE-removebg-preview.png using Guid(7446759409806442690ab897b602142c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f353906f766ac81f0b1cf4b7b256d82') in 0.025588 seconds
+  Import took 0.028855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.222826 seconds.
+  path: Assets/78D05DDE-8000-4951-9540-6F4052F8ACAE-removebg-preview.png
+  artifactKey: Guid(7446759409806442690ab897b602142c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/78D05DDE-8000-4951-9540-6F4052F8ACAE-removebg-preview.png using Guid(7446759409806442690ab897b602142c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f353906f766ac81f0b1cf4b7b256d82') in 0.015170 seconds
+  Import took 0.020596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 441.583546 seconds.
+  path: Assets/78D05DDE-8000-4951-9540-6F4052F8ACAE-removebg-preview.png
+  artifactKey: Guid(7446759409806442690ab897b602142c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/78D05DDE-8000-4951-9540-6F4052F8ACAE-removebg-preview.png using Guid(7446759409806442690ab897b602142c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47cb1b236df920cbfc83eda58690ba21') in 0.248998 seconds
+  Import took 0.265859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 694.955032 seconds.
+  path: Assets/池のある公園（日中）.jpg
+  artifactKey: Guid(b76a9a61f78c44513b269db3b3324dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/池のある公園（日中）.jpg using Guid(b76a9a61f78c44513b269db3b3324dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a36d9a1120157b5ddaacc1d7cd55fff7') in 0.024991 seconds
+  Import took 0.031090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.405229 seconds.
+  path: Assets/池のある公園（日中）.jpg
+  artifactKey: Guid(b76a9a61f78c44513b269db3b3324dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/池のある公園（日中）.jpg using Guid(b76a9a61f78c44513b269db3b3324dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85f431f8e230d70f5ba078d8e86ce572') in 0.029366 seconds
+  Import took 0.034492 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007066 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.415 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1412 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 147.8 MB.
+System memory in use after: 147.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1864.
+Total: 2.445307 ms (FindLiveObjects: 0.353375 ms CreateObjectMapping: 0.065831 ms MarkObjects: 1.937031 ms  DeleteObjects: 0.087897 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007202 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.448 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1412 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 148.7 MB.
+System memory in use after: 148.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1867.
+Total: 2.197537 ms (FindLiveObjects: 0.230631 ms CreateObjectMapping: 0.046238 ms MarkObjects: 1.836274 ms  DeleteObjects: 0.083419 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008266 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.254 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1412 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 149.0 MB.
+System memory in use after: 149.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1870.
+Total: 1.908566 ms (FindLiveObjects: 0.152046 ms CreateObjectMapping: 0.042407 ms MarkObjects: 1.664933 ms  DeleteObjects: 0.048242 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006690 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.267 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1412 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 149.4 MB.
+System memory in use after: 149.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1873.
+Total: 1.991416 ms (FindLiveObjects: 0.206706 ms CreateObjectMapping: 0.050783 ms MarkObjects: 1.677404 ms  DeleteObjects: 0.055323 ms)
+
